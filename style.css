@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+  
+}
+  
+
+canvas {
+  display: block;
+}
+
+.grid-container {
+  
+  display: grid; 
+  
+  grid-template-columns: 1fr 1fr;
+  
+  /* gap: 10px;  */
+}
+
+
+/* @media screen and (min-width: 50px) {
+  .grid-container {
+    display: none;
+  }
+} */
+ 
